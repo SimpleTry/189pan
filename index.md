@@ -1,18 +1,4 @@
-- 签到时间 2025-12-19 21:49:31 [![签到状态](https://github.com/SimpleTry/189pan/actions/workflows/main.yml/badge.svg?branch=main)](https://github.com/SimpleTry/189pan/actions/workflows/main.yml)
+- 签到时间 2025-12-20 10:57:11 [![签到状态](https://github.com/SimpleTry/189pan/actions/workflows/main.yml/badge.svg?branch=main)](https://github.com/SimpleTry/189pan/actions/workflows/main.yml)
 - # 天翼云盘自动签到抽奖程序
 - 
-- ## 执行概览
-- - **启动时间**: 2025-12-19 21:49:31
-- - **账户数量**: 1 个
-- 
-- ## 账户1
-- ### 执行结果
-- - **登录状态**: 登录失败
-- - **签到结果**: 
-- 
-- ---
-- ## 执行统计
-- - **结束时间**: 2025-12-19 21:49:39
-- - **运行时长**: 8.23 秒
-- 
-- ✅ **所有账户处理完成！**
+- 错误：用户名和密码数量不匹配
